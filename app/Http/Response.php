@@ -2,6 +2,8 @@
 
 namespace App\Http;
 
+use Exception;
+
 class Response
 {
     protected $view;
